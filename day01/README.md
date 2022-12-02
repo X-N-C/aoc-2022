@@ -1,1 +1,1 @@
-`dyalogscript day01.apls`
+`dyalogscript day01.apl`
